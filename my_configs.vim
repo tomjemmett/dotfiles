@@ -1,6 +1,7 @@
 " https://draculatheme.com/vim
-packadd! dracula
+" packadd! dracula
 syntax enable
+let g:dracula_colorterm = 0
 colorscheme dracula
 
 set number relativenumber
@@ -15,3 +16,5 @@ autocmd VimEnter * silent !echo -ne "\e[2 q"
 augroup END
 
 autocmd InsertEnter,InsertLeave * set cul!
+
+set mouse=a
