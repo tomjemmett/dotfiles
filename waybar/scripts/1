@@ -1,0 +1,900 @@
+nohup: ignoring input
+nohup: ignoring input
+Failed to register: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Remote peer disconnected
+Failed to register: GDBus.Error:org.freedesktop.DBus.Error.NoReply: Remote peer disconnected
+/home/tom/.config/waybar/scripts/cava.sh: line 42: cava: command not found
+/home/tom/.config/waybar/scripts/cava.sh: line 42: cava: command not found
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+sh: line 1: swaync-client: command not found
+sh: line 1: swaync-client: command not found
+/home/tom/.config/waybar/scripts/cava.sh: line 42: cava: command not found
+/home/tom/.config/waybar/scripts/cava.sh: line 42: cava: command not found
+sh: line 1: swaync-client: command not found
+sh: line 1: swaync-client: command not found
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.923: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.923: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.923: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.923: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.924: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.924: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.925: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.926: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.927: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.927: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.927: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.927: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.929: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:153564): Gtk-CRITICAL **: 16:45:26.930: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
+jq: error (at <stdin>:1): null (null) number required
