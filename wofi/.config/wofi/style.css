@@ -1,0 +1,84 @@
+/* ~/.config/wofi/style.css */
+
+/* ---- Window ---- */
+window {
+    background-color: #1e1e2e;  /* deep background */
+    border-radius: 12px;        /* rounded corners */
+    padding: 10px;
+    border: 2px solid #313244;  /* subtle border */
+}
+
+/* ---- Entry (Input Field) ---- */
+entry {
+    background-color: #11111b;
+    color: #cdd6f4;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 12pt;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #45475a;
+}
+
+entry:focus {
+    border-color: #89b4fa;  /* highlight border on focus */
+    background-color: #1f1f28;
+    color: #f5e0dc;
+}
+
+/* ---- List Rows ---- */
+listrow {
+    background-color: transparent;
+    color: #cdd6f4;
+    padding: 6px 10px;
+    border-radius: 6px;
+    margin: 2px 0;
+}
+
+/* Hover effect */
+listrow:hover {
+    background-color: #313244;
+    color: #f5e0dc;
+}
+
+/* Selected row */
+listrow:selected {
+    background-color: #89b4fa;
+    color: #1e1e2e;
+}
+
+/* ---- Icons ---- */
+listrow image {
+    width: 28px;
+    height: 28px;
+    margin-right: 10px;
+    border-radius: 6px;
+}
+
+/* ---- Scrollbar ---- */
+scrollbar {
+    background: #1f1f28;
+    border-radius: 6px;
+}
+
+scrollbar slider {
+    background: #45475a;
+    border-radius: 6px;
+}
+
+scrollbar slider:hover {
+    background: #89b4fa;
+}
+
+/* ---- Separator lines ---- */
+separator {
+    background-color: #313244;
+    height: 1px;
+    margin: 4px 0;
+}
+
+/* ---- Prompt text ---- */
+label {
+    color: #89b4fa;
+    font-weight: bold;
+    margin-right: 6px;
+}

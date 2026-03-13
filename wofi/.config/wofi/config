@@ -1,0 +1,18 @@
+[settings]
+# Default mode
+show = run
+
+# Enable fuzzy matching
+matching = fuzzy
+
+# Number of items visible
+lines = 8
+
+# Remember history
+history = true
+
+# Hide cancel button
+hide-cancel = true
+
+# Font
+font = JetBrains Mono 11
