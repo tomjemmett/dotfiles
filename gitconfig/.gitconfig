@@ -1,0 +1,78 @@
+[credential]
+	helper = cache
+[user]
+	name = Tom Jemmett
+	email = tom.jemmett@gmail.com
+	signingkey = 42B723B8EEE60E2C
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[pull]
+	ff = only
+[push]
+	autoSetupRemote = true
+[core]
+	excludesFile = ~/.gitignore
+[init]
+	defaultBranch = main
+[user]
+	name = Tom Jemmett
+	email = thomas.jemmett@nhs.net
+	signingkey = 42B723B8EEE60E2C
+[core]
+	excludesFile = ~/.gitignore
+	autocrlf = false
+	editor = nvim
+	eol = lf
+	pager = delta
+[alias]
+	aa = add --all
+	bv = branch -vv
+	ba = branch -ra
+	bd = branch -d
+	ca = commit --amend
+	cb = checkout -b
+	cm = commit -a --amend -C HEAD
+	ci = commit -a -v
+	co = checkout
+	di = diff
+	dm = diff --stat --find-renames main..
+	ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+	ld = log --pretty=format:"%C(yellow)%h\\ %C(green)%ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short --graph
+	lm = !git --no-pager log --decorate --oneline --reverse main.. --pretty=format:\"%C(green)%ad %C(yellow)%h%C(red)%d%C(reset) %s\" --date=format:\"%Y-%m-%d %H:%M\"
+	ls = log --pretty=format:"%C(green)%h\\ %C(yellow)[%ad]%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=relative
+	mm = merge --no-ff
+	st = status --short --branch
+	tg = tag -a
+	pu = push --tags
+	un = reset --hard HEAD
+	uh = reset --hard HEAD^
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[branch]
+	autosetuprebase = always
+	sort = -committerdate
+[merge]
+	conflictstyle = zdiff3
+[init]
+	defaultBranch = main
+[rerere]
+	enabled = true
+[help]
+	autocorrect = 10
+[diff]
+	algorithm = histogram
+[url "git@github.com:"]
+	insteadOf = "https://github.com/"
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[gpg "ssh"]
+	allowedSignersFile = ~/.ssh/git-allowed-signers
+[pager]
+	branch = false

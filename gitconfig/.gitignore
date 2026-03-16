@@ -1,0 +1,17 @@
+_scratch/
+data/sensitive/
+
+.DS_Store
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Rdata
+.httr-oauth
+
+.python_packages
+__pycache__
+.venv
+.quarto

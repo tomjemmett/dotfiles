@@ -58,5 +58,10 @@ export EDITOR='nvim'
 killport () {
     ss -lptn "sport = :$1" | awk -F " " '{printf $6}' | sed 's/.\+pid=\([0-9]\+\).\+/\1/g' | xargs kill
 }
+spawn() {
+    "$@" >/dev/null 2>&1 &
+    disown
+}
+
 . "$HOME/.local/bin/env"
 
