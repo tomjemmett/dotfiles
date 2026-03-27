@@ -40,7 +40,6 @@ eval "$(zoxide init zsh)"
 
 
 # ghcup
-# [ -f "/home/tom/.ghcup/env" ] && source "/home/tom/.ghcup/env" # ghcup-env
 
 # aliases
 alias cat=/usr/bin/bat
@@ -65,3 +64,6 @@ spawn() {
 
 . "$HOME/.local/bin/env"
 
+
+[ -f "/home/tom/.ghcup/env" ] && . "/home/tom/.ghcup/env" # ghcup-env
+[[ "$TERM_PROGRAM" == "vscode" ]] && . "$(code --locate-shell-integration-path zsh)"

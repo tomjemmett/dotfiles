@@ -1,5 +1,29 @@
 #!/bin/bash
 
-sensors -j | \
-  jq -r ".\"it8689-isa-0a40\" | [.fan1.fan1_input, .fan2.fan2_input, .fan3.fan3_input, .fan4.fan4_input | floor] | join(\",\")"
+case $(hostname) in
+  tj-arch)
+    chip="it8689-isa-0a40"
+    fanN=4
+    ;;
+  arch-laptop)
+    chip="dell_smm-virtual-0"
+    fanN=2
+    ;;
+  *)
+    echo ""
+    exit 1
+    ;;
+esac
+
+sensors -j | jq -r --arg chip "$chip" --argjson n "$fanN" '
+  [
+    .[$chip]
+    | with_entries(select(.key | test("^fan[0-9]+$"))) 
+    | .[]
+    | to_entries[]
+    | select(.key | endswith("_input"))
+    | .value
+    | floor
+  ][0:$n]
+  | join(",")'
 
