@@ -65,8 +65,15 @@
 	autocorrect = 10
 [diff]
 	algorithm = histogram
-[url "git@github.com:"]
-	insteadOf = "https://github.com/"
+# switch from https to ssh
+[url "git@github.com:tomjemmett"]
+	insteadOf = "https://github.com/tomjemmett"
+[url "git@github.com:the-strategy-unit"]
+	insteadOf = "https://github.com/the-strategy-unit"
+[url "git@github.com:nhs-r-community"]
+	insteadOf = "https://github.com/nhs-r-community"
+[url "git@github.com:nhs-oa-community"]
+	insteadOf = "https://github.com/nhs-oa-community"
 [filter "lfs"]
 	process = git-lfs filter-process
 	required = true
