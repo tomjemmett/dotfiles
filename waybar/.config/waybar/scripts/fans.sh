@@ -6,7 +6,7 @@ case $(hostname) in
     fanN=4
     ;;
   arch-laptop)
-    chip="dell_smm-virtual-0"
+    chip="dell_smm-isa-00de"
     fanN=2
     ;;
   *)
