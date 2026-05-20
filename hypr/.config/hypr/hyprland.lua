@@ -16,16 +16,16 @@
 
 -- See https://wiki.hypr.land/Configuring/Monitors/
 hl.monitor({
-    output="DP-2",
+    output="DP-1",
     mode="3840x2160@60.00",
     position="0x0",
-    scale="1.250"
+    scale=1.250
 })
 hl.monitor({
     output="HDMI-A-2",
     mode="3840x2160@60.00",
     position="3072x0",
-    scale="1.250"
+    scale=1.250
 })
 
 ---------------------
@@ -50,6 +50,10 @@ hl.on("hyprland.start", function ()
     hl.exec_cmd("systemctl --user start hyprpolkitagent")
     hl.exec_cmd("systemctl --user start hyprland-autoname-workspaces")
     hl.exec_cmd("hypridle")
+
+    hl.exec_cmd("slack")
+    hl.exec_cmd("/opt/teams-for-linux/teams-for-linux")
+    hl.exec_cmd("/opt/google/chrome/google-chrome --profile-directory=Default --app-id=faolnafnngnfdaknnbpnkhgohbobgegn %U &")
     hl.exec_cmd("chatgpt-desktop-client")
 end)
 
@@ -261,7 +265,6 @@ hl.bind(mainMod .. " + SPACE", hl.dsp.exec_cmd(menu))
 hl.bind(mainMod .. " + P", hl.dsp.window.pseudo())
 hl.bind(mainMod .. " + J", hl.dsp.layout("togglesplit"))
 hl.bind(mainMod .. " + W", hl.dsp.exec_cmd(browser))
-hl.bind(mainMod .. " + SHIFT + W", hl.dsp.exec_cmd("~/.config/hypr/start-work.sh"))
 
 -- Move focus with mainMod + arrow keys
 hl.bind(mainMod .. " + left",  hl.dsp.focus({ direction = "left" }))
@@ -389,4 +392,35 @@ hl.window_rule({
         title = "^(HyprEmoji)$"
     },
     float = true
+})
+
+hl.window_rule({
+    match = {
+        class = "slack"
+    },
+    workspace = "1 silent"
+})
+hl.window_rule({
+    match = {
+        class = "teams-for-linux"
+    },
+    workspace = "2 silent"
+})
+hl.window_rule({
+    match = {
+        class = "chrome-faolnafnngnfdaknnbpnkhgohbobgegn-Default"
+    },
+    workspace = "3 silent"
+})
+hl.window_rule({
+    match = {
+      class = "chatgpt-desktop-client"
+    },
+    workspace = "special:chatgpt silent"
+})
+
+hl.config({
+    xwayland = {
+        force_zero_scaling = true,
+    },
 })
