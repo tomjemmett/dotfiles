@@ -44,7 +44,7 @@ local browser = "firefox"
 -------------------
 
 hl.on("hyprland.start", function ()
-    hl.exec_cmd("waybar")
+    hl.exec_cmd("~/Workspace/Waybar/build/waybar")
     hl.exec_cmd("hyprpaper")
     hl.exec_cmd("dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=Hyprland")
     hl.exec_cmd("systemctl --user start hyprpolkitagent")
@@ -55,6 +55,7 @@ hl.on("hyprland.start", function ()
     hl.exec_cmd("/opt/teams-for-linux/teams-for-linux")
     hl.exec_cmd("/opt/google/chrome/google-chrome --profile-directory=Default --app-id=faolnafnngnfdaknnbpnkhgohbobgegn %U &")
     hl.exec_cmd("chatgpt-desktop-client")
+    hl.exec_cmd("logitune --minimized")
 end)
 
 -------------------------------
@@ -203,7 +204,8 @@ hl.config({
     misc = {
         force_default_wallpaper = -1,
         disable_hyprland_logo = true,
-        disable_splash_rendering = true
+        disable_splash_rendering = true,
+        focus_on_activate = true
     }
 })
 
@@ -279,6 +281,9 @@ for i = 1, 10 do
     hl.bind(mainMod .. " + " .. key,             hl.dsp.focus({ workspace = i, on_current_monitor = true }))
     hl.bind(mainMod .. " + SHIFT + " .. key,     hl.dsp.window.move({ workspace = i }))
 end
+
+hl.bind("CTRL + ALT + left", hl.dsp.focus({ workspace = "-1", on_current_monitor = true }))
+hl.bind("CTRL + ALT + right", hl.dsp.focus({ workspace = "+1", on_current_monitor = true }))
 
 -- Example special workspace (scratchpad)
 hl.bind(mainMod .. " + S",         hl.dsp.workspace.toggle_special("magic"))
