@@ -60,7 +60,7 @@ hl.on("hyprland.start", function ()
     hl.exec_cmd("slack")
     hl.exec_cmd("/opt/teams-for-linux/teams-for-linux")
     hl.exec_cmd("/opt/google/chrome/google-chrome --profile-directory=Default --app-id=faolnafnngnfdaknnbpnkhgohbobgegn %U &")
-    hl.exec_cmd("chatgpt-desktop-client")
+    -- hl.exec_cmd("chatgpt-desktop-client")
     hl.exec_cmd("logitune --minimized")
 end)
 
@@ -251,8 +251,8 @@ hl.gesture({
 
 hl.device({
     name = "logitech-usb-receiver-mouse",
-    -- natural_scroll = true
-    natural_scroll = false
+    natural_scroll = true
+    -- natural_scroll = false
 })
 
 
