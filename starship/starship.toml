@@ -7,23 +7,17 @@ format = """
 [ ](bg:white)\
 [](fg:white bg:purple)\
 $directory\
-[](fg:purple bg:green)\
+${custom.notgit}\
 $git_branch\
+$git_state\
+$git_metrics\
 $git_status\
-[](fg:green)\
 $cmd_duration\
-$line_break\
-$character"""
-
-right_format = """
-[](green)\
-$c\
-$rust\
-$haskell\
-$python\
-[](fg:green bg:comment)\
 $time\
-[ ](fg:comment)"""
+[](fg:comment)\
+$line_break\
+$character\
+"""
 
 palette = 'dracula'
 
@@ -71,14 +65,29 @@ truncation_symbol = "…/"
 "Pictures" = " "
 "Developer" = "󰲋 "
 
+[custom.notgit]
+when = "! git rev-parse --is-inside-work-tree >/dev/null 2>&1"
+command = "echo not git"
+format = '[](fg:purple bg:comment)'
+
 [git_branch]
 symbol = ""
-style = "bg:green"
-format = '[[ $symbol $branch ](fg:crust bg:green)]($style)'
+style = "bg:green fg:crust"
+format = '[](fg:purple bg:green)[ $symbol $branch ]($style)'
+
+[git_state]
+style = "bg:green fg:comment"
+format = '[ \($state( $progress_current/$progress_total)\) ]($style)'
 
 [git_status]
-style = "bg:green"
-format = '[[($all_status$ahead_behind )](fg:crust bg:green)]($style)'
+style = "bg:green fg:crust"
+format = '[($all_status$ahead_behind )]($style)[](fg:green bg:comment)'
+
+[git_metrics]
+disabled = false
+added_style="fg:comment bg:green"
+deleted_style="fg:red bg:green"
+format = '[+$added ]($added_style)[-$deleted ]($deleted_style)'
 
 [nodejs]
 symbol = ""
@@ -114,8 +123,8 @@ format = '[[ $symbol( $context) ](fg:crust bg:comment)]($style)'
 [time]
 disabled = false
 time_format = "%H:%M:%S"
-style = "bg:comment"
-format = '[[   $time ](fg:crust bg:comment)]($style)'
+style = "bg:comment fg:crust"
+format = '[   $time ]($style)'
 
 [line_break]
 disabled = false
@@ -131,8 +140,7 @@ vimcmd_visual_symbol = '[❮](bold fg:yellow)'
 
 [cmd_duration]
 show_milliseconds = true
-format = "  in $duration "
-style = "bg:purple"
+format = "[  in $duration ](bg:purple fg:crust)"
 disabled = false
 show_notifications = true
 min_time_to_notify = 45000
