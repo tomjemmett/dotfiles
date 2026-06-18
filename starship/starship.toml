@@ -12,9 +12,9 @@ $git_branch\
 $git_state\
 $git_metrics\
 $git_status\
-$cmd_duration\
 $time\
 [](fg:comment)\
+$cmd_duration\
 $line_break\
 $character\
 """
@@ -119,7 +119,6 @@ symbol = ""
 style = "bg:comment"
 format = '[[ $symbol( $context) ](fg:crust bg:comment)]($style)'
 
-
 [time]
 disabled = false
 time_format = "%H:%M:%S"
@@ -140,7 +139,13 @@ vimcmd_visual_symbol = '[❮](bold fg:yellow)'
 
 [cmd_duration]
 show_milliseconds = true
-format = "[  in $duration ](bg:purple fg:crust)"
+style = "bg:white fg:crust"
+format = """
+  \
+[](fg:white)\
+[ in $duration]($style)\
+[](fg:white)
+"""
 disabled = false
 show_notifications = true
 min_time_to_notify = 45000
