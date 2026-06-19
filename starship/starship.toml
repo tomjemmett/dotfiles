@@ -1,8 +1,8 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
-add_newline = true
+add_newline = false
 
-format = """
+format = """\
 [$os](white)\
 [ ](bg:white)\
 [](fg:white bg:purple)\
@@ -14,6 +14,7 @@ $git_metrics\
 $git_status\
 $time\
 [](fg:comment)\
+$fill\
 $cmd_duration\
 $line_break\
 $character\
@@ -140,15 +141,17 @@ vimcmd_visual_symbol = '[❮](bold fg:yellow)'
 [cmd_duration]
 show_milliseconds = true
 style = "bg:white fg:crust"
-format = """
-  \
+format = """\
 [](fg:white)\
 [ in $duration]($style)\
-[](fg:white)
+[](fg:white)\
 """
 disabled = false
 show_notifications = false
 min_time_to_notify = 45000
+
+[fill]
+symbol = ' '
 
 [palettes.dracula]
 

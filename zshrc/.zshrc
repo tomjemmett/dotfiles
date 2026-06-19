@@ -16,6 +16,7 @@ plugins=(
     gpg-agent
     stack
     tmux
+    vi-mode
     zoxide
     zsh-autosuggestions
     zsh-syntax-highlighting
