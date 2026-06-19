@@ -84,9 +84,9 @@ style = "bg:green fg:crust"
 format = '[($all_status$ahead_behind )]($style)[](fg:green bg:comment)'
 
 [git_metrics]
-disabled = false
-added_style="fg:comment bg:green"
-deleted_style="fg:red bg:green"
+only_nonzero_diffs = true
+added_style = "fg:comment bg:green"
+deleted_style = "fg:red bg:green"
 format = '[+$added ]($added_style)[-$deleted ]($deleted_style)'
 
 [nodejs]
@@ -147,7 +147,7 @@ format = """
 [](fg:white)
 """
 disabled = false
-show_notifications = true
+show_notifications = false
 min_time_to_notify = 45000
 
 [palettes.dracula]
