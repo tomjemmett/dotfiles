@@ -34,6 +34,13 @@ hl.monitor({
     scale=1.0
 })
 
+hl.monitor({
+    output="desc:Sharp Corporation 0x148D",
+    mode="3840x2160@60.00",
+    position="0x0",
+    scale=1.5
+})
+
 ---------------------
 ---- MY PROGRAMS ----
 ---------------------
