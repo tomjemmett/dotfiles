@@ -1,0 +1,9 @@
+---------------------
+---- PERMISSIONS ----
+---------------------
+
+-- See https://wiki.hypr.land/Configuring/Permissions/
+-- Please note permission changes here require a Hyprland restart and are not applied on-the-fly
+-- for security reasons
+
+hl.permission("/usr/(bin|local/bin)/hyprpm", "plugin", "allow")
